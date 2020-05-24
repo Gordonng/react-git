@@ -36,6 +36,7 @@ test_script:
   - yarn test
   - yarn prettier
 
+
 cache:
  - node_modules
  - "%LOCALAPPDATA%/Yarn"
